@@ -16,6 +16,7 @@ public:
     void f1()
     {
         printf("Beta ji"); // function hiding, as f1 function of class A was hidden
+                          // Used to supress the content of a parent class,, when we have written the same function with superior code
     }
 };
 
