@@ -12,7 +12,7 @@ public:
     }
 
     friend abc operator ++(abc&,int);
-    friend abc operator ++(abc&,int);
+    friend abc operator ++(abc&);
 
 
     void display()
