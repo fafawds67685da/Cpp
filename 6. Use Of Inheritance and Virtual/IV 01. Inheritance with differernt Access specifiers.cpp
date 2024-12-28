@@ -31,7 +31,7 @@ class A
 only variables b and c, and functions display2 and display3 were accessible.
 
 2.	For class B: private A,
-only variable a and function display1 was accessible.
+Only variables b and c, and functions display2 and display3 were accessible.
 
 3.	For class B protected A,
-Only variable b and function display2 was accessible.  */
+Only variables b and c, and functions display2 and display3 were accessible..  */
